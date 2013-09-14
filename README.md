@@ -1,13 +1,11 @@
-Trie Python Module
-==================
+## Python Trie simple implementation
 
-Briefly
--------
+
+### Briefly
 Provide an interface to the Trie data structure for the Python language.
 Please note: The code is fairly young and was NOT extensively tested.
 
-Usuage
-------
+### Usuage
 >>> from trie import Trie
 >>> foo = Trie()
 >>> foo.insert('bahamas')

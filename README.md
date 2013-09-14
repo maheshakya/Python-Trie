@@ -1,11 +1,12 @@
-## Python Trie simple implementation
+## Python Trie, a simple implementation
 
 
 ### Briefly
 Provide an interface to the Trie data structure for the Python language.
 Please note: The code is fairly young and was NOT extensively tested.
 
-### Usuage
+### Usage
+```python
 >>> from trie import Trie
 >>> foo = Trie()
 >>> foo.insert('bahamas')
@@ -25,3 +26,4 @@ False
 >>> foo.dump()
 . b a h a m a s
       n a n a
+```
